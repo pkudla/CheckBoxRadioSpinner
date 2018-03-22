@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
                 if(view.getId() == R.id.rbOpcja1){
                     wartosc = "Wybrano opcje 1";
                 } else if (view.getId() == R.id.rbOpcja2){
-                    wartosc = "Click";
+                    wartosc = "Wyrano opcję 2";
                 }
 
                 Toast.makeText(MainActivity.this,
