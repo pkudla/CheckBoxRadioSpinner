@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">22-03-2018 Ochyra</string>
+
+    <string-array name= "planety" >
+        <item>Merkury</item >
+        <item>Wenus</item >
+        <item>Ziemia</item >
+        <item>Mars</item >
+        <item>Jowisz</item >
+        <item>Saturn</item >
+        <item>Uran</item >
+        <item>Neptun</item >
+    </string-array >
+</resources>
